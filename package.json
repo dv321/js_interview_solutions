@@ -1,0 +1,21 @@
+{
+  "name": "js_interview_solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "babel": "^6.23.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.2.2",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.2.2",
+    "regenerator-runtime": "^0.11.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
